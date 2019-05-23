@@ -38,5 +38,17 @@
     │  app.wxss                       -------------全局wxss文件
     │  LICENSE
     │  project.config.json            -------------全局wxss文件
-    │  sitemap.json                   -------------全局wxss文件
+    │  sitemap.json                   -------------全局wxss文件  
     │          
+    
+ 首页效果图  
+ ------------  
+ ![](https://raw.githubusercontent.com/MyGitHub-self/Mydemo/master/code/1.png)   
+ 身份证查询效果图
+ ---------------
+ ![](https://raw.githubusercontent.com/MyGitHub-self/Mydemo/master/code/2.png)   
+ 查询结果效果图
+ ---------------
+ ![](https://raw.githubusercontent.com/MyGitHub-self/Mydemo/master/code/3.png)   
+    
+    
