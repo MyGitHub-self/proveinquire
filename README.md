@@ -14,7 +14,7 @@
     │  │      
     │  ├─history                      -------------扩展功能未实现
     │  │      
-    │  ├─index               
+    │  ├─index                        -------------主页（查询功能实现页）
     │  │      
     │  ├─ipaddress                    -------------扩展功能未实现
     │  │      
@@ -36,9 +36,9 @@
     │  app.js                         -------------全局js文件
     │  app.json                       -------------全局入口配置文件
     │  app.wxss                       -------------全局wxss文件
-    │  LICENSE
-    │  project.config.json            -------------全局wxss文件
-    │  sitemap.json                   -------------全局wxss文件  
+    │  LICENSE                        -------------查询许可文件
+    │  project.config.json            -------------版本信息配置文件
+    │  sitemap.json                   -------------微信索引文件  
     │          
     
  首页效果图  
